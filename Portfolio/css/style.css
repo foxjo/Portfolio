@@ -288,7 +288,7 @@ main p {
 #inspiration {
     background-image: url(../img/inspirationsite.png);
     height: 210px;
-    background-size: cover;
+    background-size: cover:
     background-position: top;
     background-blend-mode: multiply;
     background-color: #333;
